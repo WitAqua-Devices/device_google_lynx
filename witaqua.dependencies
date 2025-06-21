@@ -4,7 +4,7 @@
     "target_path": "device/google/gs201"
   },
   {
-    "repository": "android_device_google_lynx-kernels",
+    "repository": "device_google_lynx-kernels",
     "target_path": "device/google/lynx-kernels"
   }
 ]
