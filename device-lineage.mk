@@ -7,7 +7,7 @@
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay-lineage
 
 # ANGLE - Almost Native Graphics Layer Engine
-PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES_OVERRIDES += \
     ANGLE
 
 # EUICC
